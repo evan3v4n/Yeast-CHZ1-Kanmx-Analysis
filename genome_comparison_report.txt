@@ -1,0 +1,23 @@
+=== S. cerevisiae Genome Comparison Report ===
+
+Sequence Classification:
+  - Genomic only: 126
+  - Cassette only: 17
+  - Junction sequences: 24
+  - Perfect matches to reference: 37
+  - Partial matches: 43
+
+Visualizations have been saved to 'analysis_visualizations.png'
+
+=== Insertion Site Details ===
+Junction position in read: 119
+Upstream context: ...TACAACACTGCTTCACCAAC
+Downstream context: GGCGCGCCAGAT...
+
+Insertion appears to be at the expected site in CHZ1
+
+=== Recommendations ===
+1. Perform PCR verification with primers flanking the insertion
+2. Sequence the PCR product to confirm correct insertion
+3. Check for any unwanted mutations in flanking regions
+4. Verify loss of CHZ1 function if doing knockout

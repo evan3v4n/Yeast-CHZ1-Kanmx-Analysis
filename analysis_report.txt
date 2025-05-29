@@ -1,0 +1,20 @@
+=== Yeast Kanamycin Insertion Analysis Report ===
+
+Reference sequence length: 7222 bp
+Number of reads analyzed: 265
+
+=== Read Alignment Summary ===
+Reads with upstream CHZ1 sequence only: 178
+Reads with cassette sequence only: 13
+Reads spanning junction: 32
+
+=== Features Identified ===
+BamHI: [70, 218, 367, 517, 666, 816, 965, 1107, 1255, 1401, 1548, 1695, 1844, 1988, 2122, 2272]
+PacI: [81, 229, 378, 528, 677, 827, 976, 1118, 1266, 1412, 1559, 1706, 1999, 2133, 2283, 2432, 2582, 2732, 2882, 3028, 3173]
+AscI: [89, 237, 386, 536, 685, 835, 984, 1126, 1274, 1420, 1567, 1714, 1863, 2007, 2141, 2291, 2440, 2590, 2740, 2890, 3036, 3181, 3328, 3478, 3627, 3777, 3924, 4074]
+SalI: [64, 212, 361, 511, 660, 810, 959, 1101, 1249, 1395, 1542, 1689, 1838, 1982]
+
+=== Cassette Insertion Analysis ===
+Expected insertion site: Within CHZ1 gene (YER030W)
+Cassette appears to be inserted using homologous recombination
+Junction sequence identified: ...TGCATCGTACGCTGCAGGTCGAC|GGATCCCCGGGTTAATTAA...

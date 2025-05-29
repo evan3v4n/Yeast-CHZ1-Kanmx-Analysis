@@ -1,0 +1,41 @@
+DATA SUMMARY FOR CHZ1::KanMX PAPER
+==================================================
+
+TITLE SUGGESTION:
+Targeted Disruption of CHZ1 Gene in Saccharomyces cerevisiae Using Kanamycin Resistance Cassette
+
+KEY RESULTS:
+- Successfully disrupted CHZ1 gene in S. cerevisiae
+- Insertion verified by 32 junction-spanning sequencing reads
+- Clean integration at position ...GTCGAC|GGATCC...
+- Total of 265 reads analyzed
+
+METHODS SUMMARY:
+- strain: S. cerevisiae (specify your strain)
+- cassette: KanMX cassette with TEF promoter and terminator
+- insertion_method: PCR-based gene disruption
+- selection: G418/Geneticin resistance
+- verification: Junction PCR and Sanger sequencing
+- sequencing_depth: 265 reads covering insertion site
+
+
+FIGURE LEGENDS:
+
+Figure 1: Schematic of CHZ1::KanMX insertion showing wild-type and mutant alleles
+Schematic representation of CHZ1 gene disruption. Top: Wild-type CHZ1 locus. Bottom: CHZ1::KanMX mutant showing kanamycin resistance cassette insertion.
+
+Figure 2: Detailed view of insertion junction with restriction sites
+Molecular details of the insertion junction. Genomic CHZ1 sequence (green) transitions to kanamycin cassette (red) at the SalI-BamHI junction. Restriction sites are marked.
+
+Figure 3: Sequencing read coverage across insertion site
+Distribution of sequencing reads across the insertion site. Upstream reads (n=178), junction reads (n=32), and cassette reads (n=13) are shown.
+
+Figure 4: Restriction map of integrated cassette
+Restriction enzyme map of the integrated cassette showing positions of SalI, BamHI, PacI, and AscI sites.
+
+
+RECOMMENDED NEXT EXPERIMENTS:
+1. PCR verification with external primers
+2. Southern blot to confirm single integration
+3. Phenotypic analysis (MMS and benomyl sensitivity)
+4. Complementation test with wild-type CHZ1
